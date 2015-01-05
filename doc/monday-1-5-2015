@@ -1,0 +1,27 @@
+	Monday - 1 | 5 | 2015 
+	
+	* PAGE HOME
+		- 	Thumbnail image need standard image size
+		- 	Use single post for archives list
+		- 	All title for archive should have permalink
+
+	* PAGE CONTACT
+		- 	Message input need required-validation
+
+	* PAGE PRESSROOM
+		-	Link Buttons need styling ( no underscore )
+		- 	Pagination Buttons need styling
+
+	* PAGE SEARCH
+		- 	Search results should only display posts ( exclude pages )
+		-	Need published date
+		-	Need pagination
+		- 	Layout Content Sidebar. Popular news as sidebar.
+
+
+	MOBILE
+	* PAGE HOME
+		-	Search and Language selection, hidden
+		- 	Background align center
+		-	Sidebar need styling
+		
